@@ -75,8 +75,7 @@
               "RelativeToolTip": "src\\UrlShortener.Api\\Program.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-02T15:36:35.828Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-02T15:36:35.828Z"
             },
             {
               "$type": "Document",
@@ -88,8 +87,7 @@
               "RelativeToolTip": "src\\UrlShortener.Api\\Extensions\\ProgamExtensions.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAABoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-02T17:03:40.715Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-02T17:03:40.715Z"
             },
             {
               "$type": "Document",
@@ -101,8 +99,7 @@
               "RelativeToolTip": "src\\UrlShortener.Api\\Extensions\\EndpointsRegister.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-02T16:07:38.614Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-02T16:07:38.614Z"
             },
             {
               "$type": "Document",
@@ -114,8 +111,7 @@
               "RelativeToolTip": "src\\UrlShortener.Api\\Endpoints\\UrlShortenerEndpoints.cs",
               "ViewState": "AQIAAAQAAAAAAAAAAAAYwBYAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-02T15:49:41.95Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-02T15:49:41.95Z"
             },
             {
               "$type": "Document",
@@ -127,8 +123,7 @@
               "RelativeToolTip": "src\\UrlShortener.Api\\Services\\Core\\UrlShortenerService.cs",
               "ViewState": "AQIAAA8AAAAAAAAAAAAkwCYAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-02T16:01:32.885Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-02T16:01:32.885Z"
             },
             {
               "$type": "Document",
@@ -140,8 +135,7 @@
               "RelativeToolTip": "src\\UrlShortener.Api\\Services\\Abstractions\\IUrlShortenerService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-02T16:00:51.452Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-02T16:00:51.452Z"
             },
             {
               "$type": "Document",
@@ -153,8 +147,7 @@
               "RelativeToolTip": "src\\UrlShortener.Api\\Endpoints\\Models\\UrlShortenerModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-02T15:51:06.144Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-02T15:51:06.144Z"
             },
             {
               "$type": "Document",
@@ -166,8 +159,7 @@
               "RelativeToolTip": "src\\UrlShortener.Api\\Endpoints\\WeatherEndpoins.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-02T15:37:43.911Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-02T15:37:43.911Z"
             },
             {
               "$type": "Document",
@@ -179,8 +171,7 @@
               "RelativeToolTip": "src\\UrlShortener.Api\\Extensions\\EndpointsExtensions.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-02T15:48:24.134Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-02T15:48:24.134Z"
             }
           ]
         }

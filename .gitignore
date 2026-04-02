@@ -1,4 +1,4 @@
-UrlShortener/src/UrlShortener.Api/bin/
-UrlShortener/src/UrlShortener.Api/obj/
-UrlShortener/src/UrlShortener.tests/bin/
-UrlShortener/src/UrlShortener.tests/obj/
+**/bin/*
+**/obj/*
+**/.vs/*
+**/TestResults/*
