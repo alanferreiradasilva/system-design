@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\git\\system-design\\UrlShortener\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D495626F-430A-4812-9AC9-DB5B404E228F}|src\\UrlShortener.Tests\\UrlShortener.Tests.csproj|d:\\git\\system-design\\urlshortener\\src\\urlshortener.tests\\services\\urlshortenerservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D495626F-430A-4812-9AC9-DB5B404E228F}|src\\UrlShortener.Tests\\UrlShortener.Tests.csproj|solutionrelative:src\\urlshortener.tests\\services\\urlshortenerservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48DA9FCF-85E0-4E2B-BE0E-3F415824BEF1}|src\\UrlShortener.Api\\UrlShortener.Api.csproj|d:\\git\\system-design\\urlshortener\\src\\urlshortener.api\\endpoints\\urlshortenerendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48DA9FCF-85E0-4E2B-BE0E-3F415824BEF1}|src\\UrlShortener.Api\\UrlShortener.Api.csproj|solutionrelative:src\\urlshortener.api\\endpoints\\urlshortenerendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48DA9FCF-85E0-4E2B-BE0E-3F415824BEF1}|src\\UrlShortener.Api\\UrlShortener.Api.csproj|d:\\git\\system-design\\urlshortener\\src\\urlshortener.api\\services\\core\\urlshortenerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48DA9FCF-85E0-4E2B-BE0E-3F415824BEF1}|src\\UrlShortener.Api\\UrlShortener.Api.csproj|solutionrelative:src\\urlshortener.api\\services\\core\\urlshortenerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48DA9FCF-85E0-4E2B-BE0E-3F415824BEF1}|src\\UrlShortener.Api\\UrlShortener.Api.csproj|d:\\git\\system-design\\urlshortener\\src\\urlshortener.api\\extensions\\endpointsregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48DA9FCF-85E0-4E2B-BE0E-3F415824BEF1}|src\\UrlShortener.Api\\UrlShortener.Api.csproj|solutionrelative:src\\urlshortener.api\\extensions\\endpointsregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48DA9FCF-85E0-4E2B-BE0E-3F415824BEF1}|src\\UrlShortener.Api\\UrlShortener.Api.csproj|d:\\git\\system-design\\urlshortener\\src\\urlshortener.api\\services\\abstractions\\iurlshortenerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48DA9FCF-85E0-4E2B-BE0E-3F415824BEF1}|src\\UrlShortener.Api\\UrlShortener.Api.csproj|solutionrelative:src\\urlshortener.api\\services\\abstractions\\iurlshortenerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48DA9FCF-85E0-4E2B-BE0E-3F415824BEF1}|src\\UrlShortener.Api\\UrlShortener.Api.csproj|d:\\git\\system-design\\urlshortener\\src\\urlshortener.api\\extensions\\progamextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48DA9FCF-85E0-4E2B-BE0E-3F415824BEF1}|src\\UrlShortener.Api\\UrlShortener.Api.csproj|solutionrelative:src\\urlshortener.api\\extensions\\progamextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48DA9FCF-85E0-4E2B-BE0E-3F415824BEF1}|src\\UrlShortener.Api\\UrlShortener.Api.csproj|d:\\git\\system-design\\urlshortener\\src\\urlshortener.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48DA9FCF-85E0-4E2B-BE0E-3F415824BEF1}|src\\UrlShortener.Api\\UrlShortener.Api.csproj|solutionrelative:src\\urlshortener.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48DA9FCF-85E0-4E2B-BE0E-3F415824BEF1}|src\\UrlShortener.Api\\UrlShortener.Api.csproj|d:\\git\\system-design\\urlshortener\\src\\urlshortener.api\\endpoints\\models\\urlshortenermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48DA9FCF-85E0-4E2B-BE0E-3F415824BEF1}|src\\UrlShortener.Api\\UrlShortener.Api.csproj|solutionrelative:src\\urlshortener.api\\endpoints\\models\\urlshortenermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48DA9FCF-85E0-4E2B-BE0E-3F415824BEF1}|src\\UrlShortener.Api\\UrlShortener.Api.csproj|d:\\git\\system-design\\urlshortener\\src\\urlshortener.api\\endpoints\\weatherendpoins.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48DA9FCF-85E0-4E2B-BE0E-3F415824BEF1}|src\\UrlShortener.Api\\UrlShortener.Api.csproj|solutionrelative:src\\urlshortener.api\\endpoints\\weatherendpoins.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48DA9FCF-85E0-4E2B-BE0E-3F415824BEF1}|src\\UrlShortener.Api\\UrlShortener.Api.csproj|d:\\git\\system-design\\urlshortener\\src\\urlshortener.api\\extensions\\endpointsextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48DA9FCF-85E0-4E2B-BE0E-3F415824BEF1}|src\\UrlShortener.Api\\UrlShortener.Api.csproj|solutionrelative:src\\urlshortener.api\\extensions\\endpointsextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UrlShortenerServiceTest.cs",
+              "DocumentMoniker": "D:\\git\\system-design\\UrlShortener\\src\\UrlShortener.Tests\\Services\\UrlShortenerServiceTest.cs",
+              "RelativeDocumentMoniker": "src\\UrlShortener.Tests\\Services\\UrlShortenerServiceTest.cs",
+              "ToolTip": "D:\\git\\system-design\\UrlShortener\\src\\UrlShortener.Tests\\Services\\UrlShortenerServiceTest.cs",
+              "RelativeToolTip": "src\\UrlShortener.Tests\\Services\\UrlShortenerServiceTest.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAewFEAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T18:18:43.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\git\\system-design\\UrlShortener\\src\\UrlShortener.Api\\Program.cs",
+              "RelativeDocumentMoniker": "src\\UrlShortener.Api\\Program.cs",
+              "ToolTip": "D:\\git\\system-design\\UrlShortener\\src\\UrlShortener.Api\\Program.cs",
+              "RelativeToolTip": "src\\UrlShortener.Api\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T15:36:35.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProgamExtensions.cs",
+              "DocumentMoniker": "D:\\git\\system-design\\UrlShortener\\src\\UrlShortener.Api\\Extensions\\ProgamExtensions.cs",
+              "RelativeDocumentMoniker": "src\\UrlShortener.Api\\Extensions\\ProgamExtensions.cs",
+              "ToolTip": "D:\\git\\system-design\\UrlShortener\\src\\UrlShortener.Api\\Extensions\\ProgamExtensions.cs",
+              "RelativeToolTip": "src\\UrlShortener.Api\\Extensions\\ProgamExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAABoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T17:03:40.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EndpointsRegister.cs",
+              "DocumentMoniker": "D:\\git\\system-design\\UrlShortener\\src\\UrlShortener.Api\\Extensions\\EndpointsRegister.cs",
+              "RelativeDocumentMoniker": "src\\UrlShortener.Api\\Extensions\\EndpointsRegister.cs",
+              "ToolTip": "D:\\git\\system-design\\UrlShortener\\src\\UrlShortener.Api\\Extensions\\EndpointsRegister.cs",
+              "RelativeToolTip": "src\\UrlShortener.Api\\Extensions\\EndpointsRegister.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T16:07:38.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UrlShortenerEndpoints.cs",
+              "DocumentMoniker": "D:\\git\\system-design\\UrlShortener\\src\\UrlShortener.Api\\Endpoints\\UrlShortenerEndpoints.cs",
+              "RelativeDocumentMoniker": "src\\UrlShortener.Api\\Endpoints\\UrlShortenerEndpoints.cs",
+              "ToolTip": "D:\\git\\system-design\\UrlShortener\\src\\UrlShortener.Api\\Endpoints\\UrlShortenerEndpoints.cs",
+              "RelativeToolTip": "src\\UrlShortener.Api\\Endpoints\\UrlShortenerEndpoints.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAYwBYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T15:49:41.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UrlShortenerService.cs",
+              "DocumentMoniker": "D:\\git\\system-design\\UrlShortener\\src\\UrlShortener.Api\\Services\\Core\\UrlShortenerService.cs",
+              "RelativeDocumentMoniker": "src\\UrlShortener.Api\\Services\\Core\\UrlShortenerService.cs",
+              "ToolTip": "D:\\git\\system-design\\UrlShortener\\src\\UrlShortener.Api\\Services\\Core\\UrlShortenerService.cs",
+              "RelativeToolTip": "src\\UrlShortener.Api\\Services\\Core\\UrlShortenerService.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAkwCYAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T16:01:32.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IUrlShortenerService.cs",
+              "DocumentMoniker": "D:\\git\\system-design\\UrlShortener\\src\\UrlShortener.Api\\Services\\Abstractions\\IUrlShortenerService.cs",
+              "RelativeDocumentMoniker": "src\\UrlShortener.Api\\Services\\Abstractions\\IUrlShortenerService.cs",
+              "ToolTip": "D:\\git\\system-design\\UrlShortener\\src\\UrlShortener.Api\\Services\\Abstractions\\IUrlShortenerService.cs",
+              "RelativeToolTip": "src\\UrlShortener.Api\\Services\\Abstractions\\IUrlShortenerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T16:00:51.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UrlShortenerModel.cs",
+              "DocumentMoniker": "D:\\git\\system-design\\UrlShortener\\src\\UrlShortener.Api\\Endpoints\\Models\\UrlShortenerModel.cs",
+              "RelativeDocumentMoniker": "src\\UrlShortener.Api\\Endpoints\\Models\\UrlShortenerModel.cs",
+              "ToolTip": "D:\\git\\system-design\\UrlShortener\\src\\UrlShortener.Api\\Endpoints\\Models\\UrlShortenerModel.cs",
+              "RelativeToolTip": "src\\UrlShortener.Api\\Endpoints\\Models\\UrlShortenerModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T15:51:06.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WeatherEndpoins.cs",
+              "DocumentMoniker": "D:\\git\\system-design\\UrlShortener\\src\\UrlShortener.Api\\Endpoints\\WeatherEndpoins.cs",
+              "RelativeDocumentMoniker": "src\\UrlShortener.Api\\Endpoints\\WeatherEndpoins.cs",
+              "ToolTip": "D:\\git\\system-design\\UrlShortener\\src\\UrlShortener.Api\\Endpoints\\WeatherEndpoins.cs",
+              "RelativeToolTip": "src\\UrlShortener.Api\\Endpoints\\WeatherEndpoins.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T15:37:43.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EndpointsExtensions.cs",
+              "DocumentMoniker": "D:\\git\\system-design\\UrlShortener\\src\\UrlShortener.Api\\Extensions\\EndpointsExtensions.cs",
+              "RelativeDocumentMoniker": "src\\UrlShortener.Api\\Extensions\\EndpointsExtensions.cs",
+              "ToolTip": "D:\\git\\system-design\\UrlShortener\\src\\UrlShortener.Api\\Extensions\\EndpointsExtensions.cs",
+              "RelativeToolTip": "src\\UrlShortener.Api\\Extensions\\EndpointsExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T15:48:24.134Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
