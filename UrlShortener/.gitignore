@@ -1,0 +1,7 @@
+**/bin/*
+**/obj/*
+**/.vs/*
+**/TestResults/*
+
+\UrlShortener\.vs\*
+/UrlShortener/.vs/*

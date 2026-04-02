@@ -1,4 +1,3 @@
-**/bin/*
-**/obj/*
-**/.vs/*
-**/TestResults/*
+/UrlShortener/src/UrlShortener.Tests/bin
+/UrlShortener/src/UrlShortener.Tests/obj
+/UrlShortener/.vs
